@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>PCHubShaw</title>
+<style>
+/*layouts*/
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.header {
+  padding: 80px;
+  text-align: center;
+  background: darkgreen;
+  color: white;
+}
+.navbar {
+  background-image: url('backgroud.jpg');
+  overflow: hidden;
+  background-color: #1D1D1D;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;  
+}
+.navbar a.right {
+  float: right;
+}
+.navbar a:hover {
+  background-color: blue;
+  color: black;
+}
+.navbar a.active {
+  background-color:blue ;
+  color: white;
+}
+.row {  
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.side {
+  -ms-flex: 30%;
+  flex: 30%;
+  background-color: black;
+  padding: 20px;
+  background-image: url('http://getwallpapers.com/wallpaper/full/a/a/5/365763.jpg');
+}
+.center {   
+  -ms-flex: 70%;  flex: 70%;
+  background-color: black;
+  padding: 20px;
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/a/5/365763.jpg');
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background-image: url('back2.jpg');
+}
+</style>
+</head>
+
+<body>
+<div class="header">
+  <h1>PCHuB'n'Shaw</h1>
+  <h3>Where your PC needs.</h3>
+</div>
+<div class="navbar">
+  <a href="pchub n shaw.html">Home</a>
+  <a href="https://www.lazada.com.ph/shop/nvidiageforce/">Shop</a>
+  <a href="https://almarezjoshuacarbi.wixsite.com/mysite?fbclid=IwAR1ZI7TRp6he5JVg9vVQ0vgpXRn2VsP26nrZXQLvNMvbjA74XmqZYdCachg">About</a>
+  <a href="#" class ="active">More</a>
+</div>
+<div class="row">
+  <div class="side">
+    <h1 style="color: white""font-size:300%"><center>Product</center></h1>
+    <center><img src="https://www.bing.com/images/blob?bcid=S-O.2h7E5-UB9w"style="height:270px;"></center><br><br><br><br><br><br><br>
+    <center><img src="https://www.bing.com/images/blob?bcid=S8BU2FpbleUBaw"style="height:270px;"></center><br><br><br><br><br><br><br>
+    <center><img src="https://www.mm-vision.dk/image/0/0/VG_Asus-GeForce-1650-Phoenix-01.jpg"style="height:270px;"></center><br><br><br><br><br><br><br>
+  </div>
+  <div class="center">
+    <h1 style="color: white"><center>Description</center></h1>
+    <h1 style="color: white"><center>Asus VGA NVIDIA ROG STRIX RTX2060 A6G GAMING</center></h1>
+    <h1 style="color: white"> * NVIDIA TURING/ DirectX 12/ NVIDIA Shadowplay
+    <br>* Patented Wing-blade Fans/ MaxContact Technology
+    <br>* Auto-Extreme Technology/ Super Alloy Power II
+    <br>* ASUS FanConnect II/ GPU Tweak II
+    <br>* 1920 Cuda Cores/ Turing Arc/ 14Gbps Memory/ Nvidia Ansel, Gsync, Highlights/ DP+HDMI</h1>
+    <br>
+    <h2 style="color: white">Price: P31,614.15+tax</h2><br><br>
+    <h1 style="color: white"><center>Asus ROG STRIX RTX2060S 8G EVO GAMING NVIDIA</center></h1>
+    <h1 style="color: white">* Powered by NVIDIA Turing with 1710 MHz Boost Clock, 2176 CUDA Cores and 8GB GDDR6 memory.
+    <br>*Supports up-to 4 Monitors with 2x DisplayPort 1. 4, 2x HDMI 2. 0 and a VR headset via USB Type C ports.</h1>
+    <br><h2 style="color: white">Price: P26,565.07</h2><br>
+    <br>
+    <h1 style="color: white"><center>Asus GeForce® GTX 1650 4GB Phoenix</center></h1>
+    <h1 style="color: white">* Powered by NVIDIA Turing with 1280 CUDA Cores and overclocked 4GB GDDR6 memory in a short form factor.<br>* Auto-Extreme manufacturing technology delivers premium quality and reliability with aerospace-grade Super Alloy Power II components to run faster and last longer than reference.</h1>
+    <br><h2 style="color: white">Price: P7,973.97</h2><br>
+  </div>
+</div>
+
+<div class="footer">
+  <div style="background-image: url('back2.jpg');">
+  <h1 style="color: white">About us</h1>
+  <p style="color: white">We Deliver High quality Graphics card at a Affordable price. We give customers satisfaction in their items and give quality customer services.</p>
+  <a style="color: white" href="file:///C:/Users/hp/Desktop/underlying%20page.html">For MORE Information. Click Here.</a>
+</div>
+</body>
+</html>
