@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +20,7 @@ body {
   color: white;
 }
 .navbar {
-  background-image: url('backgroud.jpg');
+  background-image: url('https://www.cgdirector.com/wp-content/uploads/media/2018/09/GraphicsCardsPerformance-Facebook_1200x628.jpg');
   overflow: hidden;
   background-color: #1D1D1D;
   position: sticky;
@@ -67,7 +68,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background-image: url('back2.jpg');
+  background-image: url('https://www.hd-tecnologia.com/imagenes/articulos/2020/04/Nvidia-anuncia-su-Driver-Geforce-Hotfix-445.98-para-arreglar-problemas-con-el-HDR-y-mejorar-la-estabilidad-1280x720.jpg');
 }
 </style>
 </head>
@@ -115,7 +116,7 @@ body {
   <div style="background-image: url('back2.jpg');">
   <h1 style="color: white">About us</h1>
   <p style="color: white">We Deliver High quality Graphics card at a Affordable price. We give customers satisfaction in their items and give quality customer services.</p>
-  <a style="color: white" href="file:///C:/Users/hp/Desktop/underlying%20page.html">For MORE Information. Click Here.</a>
+  <a style="color: white" href="https://www.nvidia.com/en-ph/geforce/graphics-cards/30-series/rtx-3090/">For MORE Information. Click Here.</a>
 </div>
 </body>
 </html>
